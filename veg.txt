@@ -1,2 +1,4 @@
 Potato
 Carrot
+Parsnip
+Beans
